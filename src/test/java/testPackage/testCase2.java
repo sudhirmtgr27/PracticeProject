@@ -8,6 +8,7 @@ public class testCase2
     public void TC2()
     {
         System.out.println("TC2 is passed...");
+        System.out.println("fetch command test....")
 
     }
 
