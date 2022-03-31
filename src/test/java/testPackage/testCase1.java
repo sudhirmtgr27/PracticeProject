@@ -30,6 +30,12 @@ public class testCase1 extends baseClass
         System.out.println("test case 2 is passed...");
     }
 
+    @Test
+    public void TC3()
+    {
+        System.out.println("test case 3 is passed...");
+    }
+
 
     @AfterMethod
     public void tearDown()
