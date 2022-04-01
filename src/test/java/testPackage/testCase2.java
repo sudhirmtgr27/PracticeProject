@@ -5,10 +5,10 @@ import org.testng.annotations.Test;
 public class testCase2
 {
     @Test
-    public void TC2()
+    public void TC4()
     {
         System.out.println("TC2 is passed...");
-        System.out.println("fetch command test....");
+        System.out.println("Fetch command test....");
 
     }
 
